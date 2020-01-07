@@ -2,9 +2,9 @@
   "name": "node-web-server",
   "version": "1.0.0",
   "description": "",
-  "main": "service.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node service.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
